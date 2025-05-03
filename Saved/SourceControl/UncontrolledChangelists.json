@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Juku/Documents/Unreal Projects/LetsGo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Juku/Documents/Unreal Projects/LetsGo/Content/Level01_HLODLayer_Instanced.uasset",
+				"C:/Users/Juku/Documents/Unreal Projects/LetsGo/Content/Level01_HLODLayer_Merged.uasset",
+				"C:/Users/Juku/Documents/Unreal Projects/LetsGo/Content/__ExternalActors__/Level01/7/2P/HF87339U7Y3H7JNYY0JI78.uasset",
+				"C:/Users/Juku/Documents/Unreal Projects/LetsGo/Content/__ExternalActors__/Level01/8/S0/1Y5YQ3WAH0TKEJ7X7A2A54.uasset",
+				"C:/Users/Juku/Documents/Unreal Projects/LetsGo/Content/Level01.umap"
+			]
+		}
+	]
+}
