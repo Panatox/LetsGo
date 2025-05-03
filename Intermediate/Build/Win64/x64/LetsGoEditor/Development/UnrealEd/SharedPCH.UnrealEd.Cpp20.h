@@ -1,3 +1,0 @@
-// PCH for Editor/UnrealEd/Public/UnrealEdSharedPCH.h
-#include "C:/Users/Juku/Documents/Unreal Projects/LetsGo/Intermediate/Build/Win64/x64/LetsGoEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
-#include "Editor/UnrealEd/Public/UnrealEdSharedPCH.h"
